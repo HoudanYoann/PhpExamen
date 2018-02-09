@@ -1,0 +1,14 @@
+.col-sm-12
+{
+    width: 40%;
+    text-align: center;
+}
+
+.form-control
+{
+    margin-top: 10px;
+}
+.btn-primary
+{
+    margin-top: 20px;
+}
